@@ -1,11 +1,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
-<h2 align="left">Hi 👋, i`m Donia Ahmed</h2>
-<h4>Frontend Developer</h4>
+<h1 align="left">Hi 👋, i`m Donia Ahmed</h1>
+<h3>Frontend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NadaAlaaEldeen&label=Profile%20views&color=0e75b6&style=flat" alt="nadaAlaaEldeen" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Donia3012v](https://github.com/Donia3012v)
 
-- 📫 How to reach me **nada45200017@gmail.com**
+- 📫 How to reach me **09doniaahmed01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
